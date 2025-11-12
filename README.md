@@ -1,2 +1,2 @@
 # Superproductive-AI-Agent
-This is the Repository is for Superproductive AI Agent for unified Task intelligent and Automation workflow.
+This is the repository for Superproductive AI Agent for unified Task intelligent and Automation workflow.
