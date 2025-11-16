@@ -1,0 +1,4 @@
+.container { padding:20px; font-family: Arial, sans-serif; }
+.layout { display:flex; gap:20px; }
+.left { flex:2; }
+.right { flex:1; }

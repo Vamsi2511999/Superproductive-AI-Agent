@@ -1,0 +1,4 @@
+.filters { display:flex; gap:12px; align-items:center; margin-bottom:12px; }
+.task-table { width:100%; border-collapse: collapse; }
+.task-table th, .task-table td { border: 1px solid #ddd; padding: 8px; }
+.task-table th { background: #f3f4f6; }

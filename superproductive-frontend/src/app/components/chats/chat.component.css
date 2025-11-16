@@ -1,0 +1,6 @@
+.chat-window { border:1px solid #ddd; padding:8px; border-radius:6px; max-width:700px; }
+.messages { height:220px; overflow:auto; display:flex; flex-direction:column; gap:6px; margin-bottom:8px; }
+.msg-user { align-self:flex-end; background:#dcf8c6; padding:8px; border-radius:8px; }
+.msg-agent { align-self:flex-start; background:#f1f0f0; padding:8px; border-radius:8px; }
+.composer { display:flex; gap:8px; }
+.composer input { flex:1; padding:8px; }

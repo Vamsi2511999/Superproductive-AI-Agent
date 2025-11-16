@@ -1,0 +1,17 @@
+[
+  {
+    "subject": "Submit weekly report",
+    "sender": "manager@org.com",
+    "email_body": "Please complete and send the project report by Thursday EOD. This is urgent."
+  },
+  {
+    "subject": "Meeting follow-up: Design sync",
+    "sender": "teamlead@org.com",
+    "email_body": "Action: update sequence diagram and share with the team by next Monday."
+  },
+  {
+    "subject": "FYI: New guidelines",
+    "sender": "hr@org.com",
+    "email_body": "Please read the updated guidelines. No immediate action required."
+  }
+]
