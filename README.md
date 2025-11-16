@@ -4,20 +4,6 @@ A unified platform for getting actionable insights from different productivity a
 
 ## 📚 Documentation
 
-**New here? Start with these guides:**
-- **[VISUAL_OVERVIEW.md](VISUAL_OVERVIEW.md)** - Visual diagrams and quick reference
-- **[DELIVERY_CHECKLIST.md](DELIVERY_CHECKLIST.md)** - What's included and ready to use
-- **[INDEX.md](INDEX.md)** - Complete documentation navigator
-
-**Full Documentation Set:**
-- [SETUP.md](SETUP.md) - Installation and configuration guide
-- [USER_GUIDE.md](USER_GUIDE.md) - How to use the application
-- [ARCHITECTURE.md](ARCHITECTURE.md) - Technical design and architecture
-- [DIAGRAMS.md](DIAGRAMS.md) - System diagrams and data flows
-- [TROUBLESHOOTING.md](TROUBLESHOOTING.md) - Common issues and solutions
-- [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) - Complete feature breakdown
-- [PROJECT_COMPLETE.md](PROJECT_COMPLETE.md) - Project overview
-
 ## Features
 
 - **Multi-Source Task Extraction**: Extracts tasks from:
@@ -76,12 +62,7 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-4. Create `.env` file with your OpenAI API key:
-```
-OPENAI_API_KEY=your_api_key_here
-```
-
-5. Run the backend:
+4. Run the backend:
 ```bash
 uvicorn app.main:app --reload
 ```
@@ -128,8 +109,9 @@ Frontend will run on `http://localhost:5173`
 - **Backend**: Python, FastAPI, OpenAI API
 - **Frontend**: React, Vite, Tailwind CSS
 - **Data**: JSON format for dummy data
-- **AI**: OpenAI GPT for task extraction and prioritization
+- **AI**: Hugging face transformer for task extraction and prioritization
 
 ## License
 
 MIT
+
