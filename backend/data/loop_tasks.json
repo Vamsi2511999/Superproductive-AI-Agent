@@ -1,0 +1,112 @@
+[
+  {
+    "id": "loop_001",
+    "title": "Review marketing budget allocation",
+    "description": "Review and approve Q4 marketing budget for social media campaigns",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-11-22T17:00:00Z",
+    "created_date": "2025-11-10T10:00:00Z",
+    "assigned_to": "Marketing Team",
+    "tags": ["marketing", "budget", "Q4"]
+  },
+  {
+    "id": "loop_002",
+    "title": "Update product roadmap",
+    "description": "Update Q1 2026 product roadmap with new feature requests from stakeholders",
+    "status": "in-progress",
+    "priority": "medium",
+    "due_date": "2025-11-28T17:00:00Z",
+    "created_date": "2025-11-05T14:30:00Z",
+    "assigned_to": "Product Team",
+    "tags": ["product", "roadmap", "planning"]
+  },
+  {
+    "id": "loop_003",
+    "title": "Security audit compliance",
+    "description": "Complete annual security audit and submit compliance documentation",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-11-30T23:59:59Z",
+    "created_date": "2025-11-01T09:00:00Z",
+    "assigned_to": "Security Team",
+    "tags": ["security", "compliance", "audit"]
+  },
+  {
+    "id": "loop_004",
+    "title": "Customer feedback analysis",
+    "description": "Analyze Q3 customer feedback and create action plan for improvements",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-11-20T17:00:00Z",
+    "created_date": "2025-11-08T11:00:00Z",
+    "assigned_to": "Customer Success",
+    "tags": ["customer", "feedback", "analysis"]
+  },
+  {
+    "id": "loop_005",
+    "title": "Employee onboarding checklist",
+    "description": "Create comprehensive onboarding checklist for new engineering hires",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-11-15T17:00:00Z",
+    "created_date": "2025-10-25T10:00:00Z",
+    "assigned_to": "HR Team",
+    "tags": ["hr", "onboarding", "documentation"]
+  },
+  {
+    "id": "loop_006",
+    "title": "API performance optimization",
+    "description": "Optimize API endpoints to reduce response time by 30%",
+    "status": "in-progress",
+    "priority": "high",
+    "due_date": "2025-11-25T17:00:00Z",
+    "created_date": "2025-11-12T08:00:00Z",
+    "assigned_to": "Engineering Team",
+    "tags": ["engineering", "performance", "api"]
+  },
+  {
+    "id": "loop_007",
+    "title": "Social media content calendar",
+    "description": "Create and schedule social media posts for December 2025",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-11-27T17:00:00Z",
+    "created_date": "2025-11-10T15:00:00Z",
+    "assigned_to": "Marketing Team",
+    "tags": ["marketing", "social-media", "content"]
+  },
+  {
+    "id": "loop_008",
+    "title": "Database backup verification",
+    "description": "Verify all database backups are functioning and test recovery process",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-11-17T17:00:00Z",
+    "created_date": "2025-11-13T09:00:00Z",
+    "assigned_to": "DevOps Team",
+    "tags": ["devops", "database", "backup"]
+  },
+  {
+    "id": "loop_009",
+    "title": "Client contract renewal",
+    "description": "Prepare and send contract renewal documents to top 5 clients",
+    "status": "in-progress",
+    "priority": "high",
+    "due_date": "2025-11-24T17:00:00Z",
+    "created_date": "2025-11-06T10:30:00Z",
+    "assigned_to": "Sales Team",
+    "tags": ["sales", "contracts", "renewal"]
+  },
+  {
+    "id": "loop_010",
+    "title": "Mobile app bug fixes",
+    "description": "Fix critical bugs reported in mobile app v2.3.1",
+    "status": "in-progress",
+    "priority": "high",
+    "due_date": "2025-11-19T17:00:00Z",
+    "created_date": "2025-11-11T16:00:00Z",
+    "assigned_to": "Mobile Team",
+    "tags": ["mobile", "bugs", "urgent"]
+  }
+]
