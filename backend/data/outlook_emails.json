@@ -1,0 +1,74 @@
+[
+  {
+    "id": "email_001",
+    "subject": "Q4 Marketing Campaign - Action Required",
+    "sender": "sarah.johnson@company.com",
+    "sender_name": "Sarah Johnson",
+    "body": "Hi Team,\n\nWe need to finalize the Q4 marketing campaign strategy by next Friday. Please review the attached deck and provide your feedback. Key deliverables:\n\n1. Budget allocation for social media ads\n2. Content calendar for November-December\n3. KPI targets and success metrics\n\nLooking forward to your inputs.\n\nBest,\nSarah",
+    "received_date": "2025-11-10T09:30:00Z",
+    "has_attachments": true
+  },
+  {
+    "id": "email_002",
+    "subject": "Website Redesign Project Update",
+    "sender": "mike.chen@company.com",
+    "sender_name": "Mike Chen",
+    "body": "Hello,\n\nThe website redesign is progressing well. However, we need design approval on the new homepage mockups by Wednesday. Can you please review and approve so we can move forward with development?\n\nAlso, we need content for the About Us page updated by Nov 20th.\n\nThanks,\nMike",
+    "received_date": "2025-11-12T14:15:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_003",
+    "subject": "Team Performance Review - November",
+    "sender": "hr@company.com",
+    "sender_name": "HR Department",
+    "body": "Dear Team Lead,\n\nIt's time for the monthly performance reviews. Please complete the review forms for your team members by November 18th. Access the review portal at hr.company.com/reviews.\n\nReminder: 1-on-1 meetings should be scheduled before submitting the forms.\n\nRegards,\nHR Team",
+    "received_date": "2025-11-11T08:00:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_004",
+    "subject": "Client Meeting Follow-up - Action Items",
+    "sender": "jessica.martinez@company.com",
+    "sender_name": "Jessica Martinez",
+    "body": "Hi everyone,\n\nGreat meeting with the client today! Here are the action items:\n\n- Prepare product demo for next week's presentation\n- Send pricing proposal by Thursday\n- Schedule technical deep-dive session with their IT team\n- Update project timeline based on new requirements\n\nLet me know if you have any questions.\n\nJessica",
+    "received_date": "2025-11-13T16:45:00Z",
+    "has_attachments": true
+  },
+  {
+    "id": "email_005",
+    "subject": "Urgent: Server Maintenance Window",
+    "sender": "it-ops@company.com",
+    "sender_name": "IT Operations",
+    "body": "URGENT NOTICE\n\nScheduled server maintenance on Saturday, Nov 18th from 2 AM - 6 AM EST. All services will be temporarily unavailable.\n\nAction required:\n- Notify your team members\n- Schedule any critical tasks outside this window\n- Backup important work before Friday EOD\n\nContact IT if you have concerns.\n\nIT Ops Team",
+    "received_date": "2025-11-14T10:20:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_006",
+    "subject": "Budget Report Due Next Week",
+    "sender": "finance@company.com",
+    "sender_name": "Finance Department",
+    "body": "Hello,\n\nYour Q4 budget report is due on November 22nd. Please include:\n- Actual spend vs. projected budget\n- Variance analysis\n- Q1 2026 budget forecast\n\nUse the standard template from the finance portal.\n\nThank you,\nFinance Team",
+    "received_date": "2025-11-09T11:30:00Z",
+    "has_attachments": false
+  },
+  {
+    "id": "email_007",
+    "subject": "Training Session: New CRM Platform",
+    "sender": "training@company.com",
+    "sender_name": "Training Department",
+    "body": "Dear Team,\n\nMandatory training on the new CRM platform is scheduled for November 21st at 2 PM. Please:\n\n1. Register via the training portal by Nov 17th\n2. Complete the pre-training module\n3. Bring any questions you have about the new system\n\nAttendance is mandatory for all sales and support staff.\n\nTraining Team",
+    "received_date": "2025-11-08T13:00:00Z",
+    "has_attachments": true
+  },
+  {
+    "id": "email_008",
+    "subject": "Project Milestone Deadline - Nov 25",
+    "sender": "david.lee@company.com",
+    "sender_name": "David Lee",
+    "body": "Team,\n\nReminder that our project milestone is due November 25th. We need to deliver:\n\n- Complete API documentation\n- Unit test coverage above 80%\n- Integration testing completed\n- Deployment scripts ready\n\nLet's have a checkpoint meeting on Nov 20th to ensure we're on track.\n\nDavid",
+    "received_date": "2025-11-14T09:00:00Z",
+    "has_attachments": false
+  }
+]

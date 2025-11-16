@@ -1,0 +1,122 @@
+[
+  {
+    "id": "teams_001",
+    "channel": "Engineering",
+    "sender_name": "Alex Thompson",
+    "sender_email": "alex.thompson@company.com",
+    "message": "@channel Reminder: Code review for PR #234 is needed before we can merge. Please review by EOD today. It's blocking the release pipeline.",
+    "timestamp": "2025-11-14T10:30:00Z",
+    "mentions": ["@channel"],
+    "reactions": ["👍", "👀"]
+  },
+  {
+    "id": "teams_002",
+    "channel": "Product",
+    "sender_name": "Rachel Green",
+    "sender_email": "rachel.green@company.com",
+    "message": "Hey team, we need to finalize the feature specifications for the new dashboard by Friday. @Mike can you share the wireframes? @Sarah please review the user stories.",
+    "timestamp": "2025-11-13T15:45:00Z",
+    "mentions": ["@Mike", "@Sarah"],
+    "reactions": ["✅"]
+  },
+  {
+    "id": "teams_003",
+    "channel": "Marketing",
+    "sender_name": "Tom Wilson",
+    "sender_email": "tom.wilson@company.com",
+    "message": "Team - The blog post about our new product launch needs to be published by Nov 18th. Who can take ownership of this? We also need social media graphics ready.",
+    "timestamp": "2025-11-12T09:15:00Z",
+    "mentions": [],
+    "reactions": ["🚀", "📝"]
+  },
+  {
+    "id": "teams_004",
+    "channel": "Design",
+    "sender_name": "Emma Davis",
+    "sender_email": "emma.davis@company.com",
+    "message": "@Lisa @John We need your feedback on the new brand guidelines by tomorrow. The client is waiting for our response. Please prioritize this!",
+    "timestamp": "2025-11-14T11:00:00Z",
+    "mentions": ["@Lisa", "@John"],
+    "reactions": ["⏰"]
+  },
+  {
+    "id": "teams_005",
+    "channel": "Sales",
+    "sender_name": "Robert Brown",
+    "sender_email": "robert.brown@company.com",
+    "message": "Urgent: Demo environment is down. We have a client presentation in 2 hours. @DevOps can someone help ASAP?",
+    "timestamp": "2025-11-15T08:30:00Z",
+    "mentions": ["@DevOps"],
+    "reactions": ["🚨", "🔥"]
+  },
+  {
+    "id": "teams_006",
+    "channel": "Customer Support",
+    "sender_name": "Linda Martinez",
+    "sender_email": "linda.martinez@company.com",
+    "message": "We've received multiple tickets about the login issue. @Engineering can we get an update on the fix? Customers are getting frustrated.",
+    "timestamp": "2025-11-14T14:20:00Z",
+    "mentions": ["@Engineering"],
+    "reactions": ["😟"]
+  },
+  {
+    "id": "teams_007",
+    "channel": "HR",
+    "sender_name": "Patricia Anderson",
+    "sender_email": "patricia.anderson@company.com",
+    "message": "Reminder: All managers need to submit Q4 performance reviews by Nov 20th. Please don't wait until the last minute. Reach out if you need help with the system.",
+    "timestamp": "2025-11-13T10:00:00Z",
+    "mentions": [],
+    "reactions": ["📋"]
+  },
+  {
+    "id": "teams_008",
+    "channel": "DevOps",
+    "sender_name": "Chris Taylor",
+    "sender_email": "chris.taylor@company.com",
+    "message": "@team We need to update the SSL certificates on production servers by Nov 22nd before they expire. I'll create tickets for each service. Please acknowledge when you see this.",
+    "timestamp": "2025-11-14T16:00:00Z",
+    "mentions": ["@team"],
+    "reactions": ["✅", "👍"]
+  },
+  {
+    "id": "teams_009",
+    "channel": "Finance",
+    "sender_name": "Jennifer White",
+    "sender_email": "jennifer.white@company.com",
+    "message": "Budget reports are overdue from 3 departments. Please submit by Friday or we'll miss the board meeting deadline. This is critical.",
+    "timestamp": "2025-11-14T09:45:00Z",
+    "mentions": [],
+    "reactions": ["⚠️"]
+  },
+  {
+    "id": "teams_010",
+    "channel": "Engineering",
+    "sender_name": "Kevin Zhang",
+    "sender_email": "kevin.zhang@company.com",
+    "message": "The new API documentation needs to be completed before the v3.0 release. @Sarah can you help with the authentication section? Target date is Nov 25th.",
+    "timestamp": "2025-11-13T13:30:00Z",
+    "mentions": ["@Sarah"],
+    "reactions": ["📚"]
+  },
+  {
+    "id": "teams_011",
+    "channel": "Product",
+    "sender_name": "Amanda Lee",
+    "sender_email": "amanda.lee@company.com",
+    "message": "User testing session scheduled for Nov 21st. We need 5 participants from the beta group. Can someone coordinate this?",
+    "timestamp": "2025-11-12T14:00:00Z",
+    "mentions": [],
+    "reactions": ["🧪"]
+  },
+  {
+    "id": "teams_012",
+    "channel": "Marketing",
+    "sender_name": "Brian Scott",
+    "sender_email": "brian.scott@company.com",
+    "message": "@channel Don't forget - email campaign for Black Friday goes out Nov 23rd. All assets need approval by Nov 20th. Let's get this done!",
+    "timestamp": "2025-11-14T12:00:00Z",
+    "mentions": ["@channel"],
+    "reactions": ["🛍️", "💰"]
+  }
+]
